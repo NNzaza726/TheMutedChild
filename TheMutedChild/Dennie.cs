@@ -28,7 +28,7 @@ namespace TheMuted.Sprite
         private const int FramesPerSec = 6;
         private const int FramesRow = 8;
 
-        private bool stop = true;
+        //private bool stop = true;
 
 
 
