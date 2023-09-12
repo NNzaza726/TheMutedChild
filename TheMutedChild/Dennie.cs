@@ -38,7 +38,7 @@ namespace TheMuted.Sprite
             dennie.Load(content, "Sheet", Frames, FramesRow, FramesPerSec);
         }
 
-        int row = 5;
+        int row = 1;
         internal void Update(GameTime gameTime)
         {
 
