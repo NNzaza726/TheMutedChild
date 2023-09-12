@@ -25,7 +25,7 @@ namespace TheMuted.Sprite
         Vector2 denniepos = new Vector2(25, 25);
 
         private const int Frames = 4;
-        private const int FramesPerSec = 6;
+        private const int FramesPerSec = 10;
         private const int FramesRow = 8;
 
         private bool stop = true;
